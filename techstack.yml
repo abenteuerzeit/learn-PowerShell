@@ -1,7 +1,8 @@
 repo_name: abenteuerzeit/learn-PowerShell
 report_id: '08d4e8e99ae539d25b5c81f915678d88'
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-16T19:36:29+00:00'
+timestamp: '2024-01-05T08:49:28+00:00'
 requested_by: abenteuerzeit
 provider: github
 branch: development
@@ -15,6 +16,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/abenteuerzeit/learn-PowerShell
   detection_source: Repo Metadata
 - name: PowerShell
   description: A task automation and configuration management framework
@@ -24,4 +26,5 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/3681/powershell-logo.png
+  detection_source_url: https://github.com/abenteuerzeit/learn-PowerShell
   detection_source: Repo Metadata
